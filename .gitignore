@@ -7,3 +7,5 @@ result
 #Added automatically by Lustre Dev Tools
 /.lustre
 /dist
+
+/node_modules
